@@ -1,0 +1,15 @@
+{
+    "Clientes":[{
+            "Nombre":"Jaime",
+            "Telefono":"131313"
+        },
+        {
+            "Nombre":"luis",
+            "Telefono":"342142424"
+        },
+        {
+            "Nombre":"Martin",
+            "Telefono":"131313"
+        }
+    ]
+}
